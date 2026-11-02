@@ -1,3 +1,22 @@
+# Web Rechner mit Stripe Anbindung
+
+## Funktionen
+Unser Taschenrechner beherrscht die vier Grundrechenarten: 
+- Addition 
+- Subtraktion
+- Multiplikation 
+- Division
+
+Zusätzlich lassen sich Quadratwurzeln ziehen sowie Zahlen quadrieren (x²) oder mit einem beliebigen Exponenten potenzieren (x^y).
+Fakultät ist ebenfalls eine Option.
+
+## Inspiration
+Als Vorbilder dienten uns zwei sehr unterschiedliche Firmen: 
+EA Sports, weil sie praktisch jede Funktion hinter einer Paywall verstecken, und Desmos, weil sie mathematische Formeln in einer übersichtlichen grafischen Oberfläche darstellen.
+
+## Motivation
+Ehrlich gesagt entstand dieses Projekt, weil wir für unser Modul eines umsetzen mussten. Die Welt braucht diesen Taschenrechner nicht wirklich.
+
 # BBZBL Modul 324: Web-Applikation Template
 
 Dieses Template dient als Vorlage zum Starten eures Projekts.
