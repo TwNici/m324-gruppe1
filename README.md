@@ -1,5 +1,10 @@
 # Web Rechner mit Stripe Anbindung
 
+## Start Anleitung
+```
+cd app && npm run dev
+```
+
 ## Funktionen
 Unser Taschenrechner beherrscht die vier Grundrechenarten: 
 - Addition 
