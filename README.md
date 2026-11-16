@@ -2,7 +2,7 @@
 
 ## Start Anleitung
 ```
-cd app && npm run dev
+cd app && npm install && npm run dev
 ```
 
 ## Funktionen
