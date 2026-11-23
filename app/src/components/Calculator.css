@@ -1,0 +1,23 @@
+.calc {
+  max-width: 320px;
+  margin: 16px auto;
+  padding: 0 16px;
+}
+
+.display {
+  text-align: right;
+  border: 1px solid #ccc;
+  padding: 8px;
+  margin: 8px 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4px;
+  margin: 8px 0;
+}
+
+.grid button {
+  padding: 12px;
+}
